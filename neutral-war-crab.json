@@ -1,0 +1,204 @@
+{
+  "format": "farcaster-sticker-pack",
+  "version": 1,
+  "id": "neutral-war-crab",
+  "name": "Neutral War Crab",
+  "description": "A versatile collection of neutral crab reactions, expressions and moods.",
+  "author": {
+    "name": "Njal"
+  },
+  "stickers": [
+    {
+      "id": "01-curious",
+      "name": "Curious",
+      "alt": "A neutral crab looking curious or inquisitive.",
+      "url": "https://red-geographical-clownfish-714.mypinata.cloud/ipfs/bafybeihnpqu6fvscm3b2dorzortfqw5qhmhfe5ijpz3i6ltgj3ix3lee7y/01._curious.webp",
+      "mimeType": "image/webp",
+      "width": 512,
+      "height": 410,
+      "sha256": "610859e6a2287ca9ce9565cd9092de8a749bb171ded6d006e306c4dafe141f3f",
+      "tags": [
+        "curious",
+        "question",
+        "thinking",
+        "reaction"
+      ]
+    },
+    {
+      "id": "02-cool",
+      "name": "Cool",
+      "alt": "A neutral crab looking cool and composed.",
+      "url": "https://red-geographical-clownfish-714.mypinata.cloud/ipfs/bafybeihnpqu6fvscm3b2dorzortfqw5qhmhfe5ijpz3i6ltgj3ix3lee7y/02._cool.webp",
+      "mimeType": "image/webp",
+      "width": 512,
+      "height": 410,
+      "sha256": "d14e2a2f19fb3cb035b2651c1fe59243c7bf771f0c48c8cbfec9846c001cdd98",
+      "tags": [
+        "cool",
+        "confident",
+        "calm",
+        "reaction"
+      ]
+    },
+    {
+      "id": "03-angry",
+      "name": "Angry",
+      "alt": "A neutral crab expressing anger or frustration.",
+      "url": "https://red-geographical-clownfish-714.mypinata.cloud/ipfs/bafybeihnpqu6fvscm3b2dorzortfqw5qhmhfe5ijpz3i6ltgj3ix3lee7y/03._angry.webp",
+      "mimeType": "image/webp",
+      "width": 512,
+      "height": 410,
+      "sha256": "d9ab7cf42962f02e514ffa343968debff154497d833e37fefeaf44a05b47a480",
+      "tags": [
+        "angry",
+        "mad",
+        "frustrated",
+        "reaction"
+      ]
+    },
+    {
+      "id": "04-party",
+      "name": "Party",
+      "alt": "A neutral crab celebrating and having a good time.",
+      "url": "https://red-geographical-clownfish-714.mypinata.cloud/ipfs/bafybeihnpqu6fvscm3b2dorzortfqw5qhmhfe5ijpz3i6ltgj3ix3lee7y/04._party.webp",
+      "mimeType": "image/webp",
+      "width": 512,
+      "height": 410,
+      "sha256": "dbdd95444876888d82934ad89abd46849844ad0a3cccb30bac5be83238c868b7",
+      "tags": [
+        "party",
+        "celebration",
+        "fun",
+        "reaction"
+      ]
+    },
+    {
+      "id": "05-defensive",
+      "name": "Defensive",
+      "alt": "A neutral crab taking a defensive stance.",
+      "url": "https://red-geographical-clownfish-714.mypinata.cloud/ipfs/bafybeihnpqu6fvscm3b2dorzortfqw5qhmhfe5ijpz3i6ltgj3ix3lee7y/05._defensive.webp",
+      "mimeType": "image/webp",
+      "width": 512,
+      "height": 410,
+      "sha256": "46149ac92ca87e61d08edf4950ef88b797e0b5d4e909d546f32e1ad87107759f",
+      "tags": [
+        "defensive",
+        "guard",
+        "protection",
+        "reaction"
+      ]
+    },
+    {
+      "id": "06-swiss-crab",
+      "name": "Swiss Crab",
+      "alt": "A neutral crab with a Swiss-themed appearance.",
+      "url": "https://red-geographical-clownfish-714.mypinata.cloud/ipfs/bafybeihnpqu6fvscm3b2dorzortfqw5qhmhfe5ijpz3i6ltgj3ix3lee7y/06._Swiss.webp",
+      "mimeType": "image/webp",
+      "width": 512,
+      "height": 410,
+      "sha256": "2f3ff7f4aa4be4c2a5b92028a5b52e383695a83d6ee66bf3c6426665aac53f2f",
+      "tags": [
+        "swiss",
+        "switzerland",
+        "neutral crab",
+        "reaction"
+      ]
+    },
+    {
+      "id": "07-ok",
+      "name": "OK",
+      "alt": "A neutral crab signaling approval or that everything is OK.",
+      "url": "https://red-geographical-clownfish-714.mypinata.cloud/ipfs/bafybeihnpqu6fvscm3b2dorzortfqw5qhmhfe5ijpz3i6ltgj3ix3lee7y/07._OK.webp",
+      "mimeType": "image/webp",
+      "width": 512,
+      "height": 410,
+      "sha256": "0dd7a49aa7d9404e2ed7f89a2158151cc51f9d93551a62a6bef0d127713c3c73",
+      "tags": [
+        "ok",
+        "approval",
+        "agree",
+        "reaction"
+      ]
+    },
+    {
+      "id": "08-crying",
+      "name": "Crying",
+      "alt": "A neutral crab crying or feeling sad.",
+      "url": "https://red-geographical-clownfish-714.mypinata.cloud/ipfs/bafybeihnpqu6fvscm3b2dorzortfqw5qhmhfe5ijpz3i6ltgj3ix3lee7y/08._crying.webp",
+      "mimeType": "image/webp",
+      "width": 512,
+      "height": 410,
+      "sha256": "08daf7b696d275899b7a0644e0644fdcd8ae3a013974bab321218e45bd9e4dbf",
+      "tags": [
+        "crying",
+        "sad",
+        "tears",
+        "reaction"
+      ]
+    },
+    {
+      "id": "09-sleepy",
+      "name": "Sleepy",
+      "alt": "A neutral crab looking sleepy or tired.",
+      "url": "https://red-geographical-clownfish-714.mypinata.cloud/ipfs/bafybeihnpqu6fvscm3b2dorzortfqw5qhmhfe5ijpz3i6ltgj3ix3lee7y/09._sleepy.webp",
+      "mimeType": "image/webp",
+      "width": 512,
+      "height": 410,
+      "sha256": "c71c4889ce343f5dc1694a373abdc455e364b2f1190f11628f697bae55329151",
+      "tags": [
+        "sleepy",
+        "tired",
+        "sleep",
+        "reaction"
+      ]
+    },
+    {
+      "id": "10-love",
+      "name": "Love",
+      "alt": "A neutral crab expressing love and affection.",
+      "url": "https://red-geographical-clownfish-714.mypinata.cloud/ipfs/bafybeihnpqu6fvscm3b2dorzortfqw5qhmhfe5ijpz3i6ltgj3ix3lee7y/10._love.webp",
+      "mimeType": "image/webp",
+      "width": 512,
+      "height": 410,
+      "sha256": "b299fb0f755c78a397e9e94dc7e85a486e3957a4bfd77fc92e6c2cd0a2035ed0",
+      "tags": [
+        "love",
+        "affection",
+        "heart",
+        "reaction"
+      ]
+    },
+    {
+      "id": "11-builder",
+      "name": "Builder",
+      "alt": "A neutral crab in builder mode, ready to create or work.",
+      "url": "https://red-geographical-clownfish-714.mypinata.cloud/ipfs/bafybeihnpqu6fvscm3b2dorzortfqw5qhmhfe5ijpz3i6ltgj3ix3lee7y/11._builder.webp",
+      "mimeType": "image/webp",
+      "width": 512,
+      "height": 410,
+      "sha256": "7fdd32b42f4229854df840199d31f85eb270744756567b876b2a2af5f4853640",
+      "tags": [
+        "builder",
+        "building",
+        "work",
+        "create"
+      ]
+    },
+    {
+      "id": "12-victory",
+      "name": "Victory",
+      "alt": "A neutral crab celebrating a win or success.",
+      "url": "https://red-geographical-clownfish-714.mypinata.cloud/ipfs/bafybeihnpqu6fvscm3b2dorzortfqw5qhmhfe5ijpz3i6ltgj3ix3lee7y/12._victory.webp",
+      "mimeType": "image/webp",
+      "width": 512,
+      "height": 410,
+      "sha256": "1f3a9b044a295ef42d57a76fd8a8590019d8d94cd351bae96c64177a27e27735",
+      "tags": [
+        "victory",
+        "win",
+        "success",
+        "celebration"
+      ]
+    }
+  ]
+}
