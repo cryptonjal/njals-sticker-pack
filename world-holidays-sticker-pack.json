@@ -1,0 +1,1137 @@
+{
+  "format": "farcaster-sticker-pack",
+  "version": 1,
+  "id": "world-holidays",
+  "name": "World Holidays Sticker Pack",
+  "description": "A global collection of festive stickers celebrating holidays, traditions and cultural festivals throughout the year.",
+  "author": {
+    "name": "Njal"
+  },
+  "stickers": [
+    {
+      "id": "new-year",
+      "name": "New Year",
+      "alt": "New Year holiday sticker illustration",
+      "url": "https://red-geographical-clownfish-714.mypinata.cloud/ipfs/bafybeicv4mxh7tvwgrf6yb2i7mhwa5fh33s4lhxshrvnfkrxgjrykpi4au/01.%20new%20year.webp",
+      "mimeType": "image/webp",
+      "width": 512,
+      "height": 512,
+      "sha256": "9d8dd0334a3944b5932e38feb0f1def5922d5aaf7142e90d43f93a4a77a0b814",
+      "tags": [
+        "new year",
+        "holiday",
+        "celebration"
+      ]
+    },
+    {
+      "id": "lunar-new-year",
+      "name": "Lunar New Year",
+      "alt": "Lunar New Year holiday sticker illustration",
+      "url": "https://red-geographical-clownfish-714.mypinata.cloud/ipfs/bafybeicv4mxh7tvwgrf6yb2i7mhwa5fh33s4lhxshrvnfkrxgjrykpi4au/02.%20lunar%20new%20year.webp",
+      "mimeType": "image/webp",
+      "width": 512,
+      "height": 512,
+      "sha256": "75bb4dbf926293ad20a512ac96a8928215983108fd13e5834418415371a34f89",
+      "tags": [
+        "lunar new year",
+        "holiday",
+        "celebration"
+      ]
+    },
+    {
+      "id": "zodiac-firegoat",
+      "name": "Zodiac Firegoat",
+      "alt": "Zodiac Firegoat holiday sticker illustration",
+      "url": "https://red-geographical-clownfish-714.mypinata.cloud/ipfs/bafybeicv4mxh7tvwgrf6yb2i7mhwa5fh33s4lhxshrvnfkrxgjrykpi4au/03.%20zodiac%20firegoat.webp",
+      "mimeType": "image/webp",
+      "width": 512,
+      "height": 512,
+      "sha256": "1c5d4dc23cdf6f1360ded523f7ec25b5f4af884402737173cdfbbeb99ab7fb22",
+      "tags": [
+        "zodiac firegoat",
+        "holiday",
+        "celebration"
+      ]
+    },
+    {
+      "id": "nowruz",
+      "name": "Nowruz",
+      "alt": "Nowruz holiday sticker illustration",
+      "url": "https://red-geographical-clownfish-714.mypinata.cloud/ipfs/bafybeicv4mxh7tvwgrf6yb2i7mhwa5fh33s4lhxshrvnfkrxgjrykpi4au/04.%20Nowruz.webp",
+      "mimeType": "image/webp",
+      "width": 512,
+      "height": 512,
+      "sha256": "1401f300d8aef44827ce30e74b838f0789a50dfcac1d662f5a3f8d45a2de615b",
+      "tags": [
+        "nowruz",
+        "holiday",
+        "celebration"
+      ]
+    },
+    {
+      "id": "songkran",
+      "name": "Songkran",
+      "alt": "Songkran holiday sticker illustration",
+      "url": "https://red-geographical-clownfish-714.mypinata.cloud/ipfs/bafybeicv4mxh7tvwgrf6yb2i7mhwa5fh33s4lhxshrvnfkrxgjrykpi4au/05.%20Songkran.webp",
+      "mimeType": "image/webp",
+      "width": 512,
+      "height": 512,
+      "sha256": "210d1f3dcc56c8ecaee33a13802a57005c8755a6556846722f33a6aa1e7542d3",
+      "tags": [
+        "songkran",
+        "holiday",
+        "celebration"
+      ]
+    },
+    {
+      "id": "spring-festival",
+      "name": "Spring Festival",
+      "alt": "Spring Festival holiday sticker illustration",
+      "url": "https://red-geographical-clownfish-714.mypinata.cloud/ipfs/bafybeicv4mxh7tvwgrf6yb2i7mhwa5fh33s4lhxshrvnfkrxgjrykpi4au/06.%20Spring%20festival.webp",
+      "mimeType": "image/webp",
+      "width": 512,
+      "height": 512,
+      "sha256": "6ad7c2f2ae095a16f219849002443e0b63722b596d31f0e68e7e4493d24ca921",
+      "tags": [
+        "spring festival",
+        "holiday",
+        "celebration"
+      ]
+    },
+    {
+      "id": "mid-autumn-festival",
+      "name": "Mid Autumn Festival",
+      "alt": "Mid Autumn Festival holiday sticker illustration",
+      "url": "https://red-geographical-clownfish-714.mypinata.cloud/ipfs/bafybeicv4mxh7tvwgrf6yb2i7mhwa5fh33s4lhxshrvnfkrxgjrykpi4au/07.%20Mid-Autumn%20Festival.webp",
+      "mimeType": "image/webp",
+      "width": 512,
+      "height": 512,
+      "sha256": "b747503d353a03a1aa0437e9a8a022238f33450815fd5a02ea4b904a551a85fe",
+      "tags": [
+        "mid autumn festival",
+        "holiday",
+        "celebration"
+      ]
+    },
+    {
+      "id": "oktoberfest",
+      "name": "Oktoberfest",
+      "alt": "Oktoberfest holiday sticker illustration",
+      "url": "https://red-geographical-clownfish-714.mypinata.cloud/ipfs/bafybeicv4mxh7tvwgrf6yb2i7mhwa5fh33s4lhxshrvnfkrxgjrykpi4au/08.%20Oktoberfest.webp",
+      "mimeType": "image/webp",
+      "width": 512,
+      "height": 512,
+      "sha256": "37074decc1291c8e688246536cfcf0477bba110991af98bd893e37a7cf065ee3",
+      "tags": [
+        "oktoberfest",
+        "holiday",
+        "celebration"
+      ]
+    },
+    {
+      "id": "christmas",
+      "name": "Christmas",
+      "alt": "Christmas holiday sticker illustration",
+      "url": "https://red-geographical-clownfish-714.mypinata.cloud/ipfs/bafybeicv4mxh7tvwgrf6yb2i7mhwa5fh33s4lhxshrvnfkrxgjrykpi4au/09.%20Christmas.webp",
+      "mimeType": "image/webp",
+      "width": 512,
+      "height": 512,
+      "sha256": "a68c6b538a35d8e1f0af282157ae849dcbbe263f158aec533c3fdda8a15fc69f",
+      "tags": [
+        "christmas",
+        "holiday",
+        "celebration"
+      ]
+    },
+    {
+      "id": "christmas-tree",
+      "name": "Christmas Tree",
+      "alt": "Christmas Tree holiday sticker illustration",
+      "url": "https://red-geographical-clownfish-714.mypinata.cloud/ipfs/bafybeicv4mxh7tvwgrf6yb2i7mhwa5fh33s4lhxshrvnfkrxgjrykpi4au/10.%20christmas-tree.webp",
+      "mimeType": "image/webp",
+      "width": 512,
+      "height": 512,
+      "sha256": "4290cde98a6d66805108bd30177226726ec0536ffc673438dae4fdb374a33afd",
+      "tags": [
+        "christmas tree",
+        "holiday",
+        "celebration"
+      ]
+    },
+    {
+      "id": "christmas-sock",
+      "name": "Christmas Sock",
+      "alt": "Christmas Sock holiday sticker illustration",
+      "url": "https://red-geographical-clownfish-714.mypinata.cloud/ipfs/bafybeicv4mxh7tvwgrf6yb2i7mhwa5fh33s4lhxshrvnfkrxgjrykpi4au/11.%20christmas-sock.webp",
+      "mimeType": "image/webp",
+      "width": 512,
+      "height": 512,
+      "sha256": "1476577cabacc7b87d0454fd9459d1c96ff382dba214288dc15aeade1d1f6d5b",
+      "tags": [
+        "christmas sock",
+        "holiday",
+        "celebration"
+      ]
+    },
+    {
+      "id": "rudolf",
+      "name": "Rudolf",
+      "alt": "Rudolf holiday sticker illustration",
+      "url": "https://red-geographical-clownfish-714.mypinata.cloud/ipfs/bafybeicv4mxh7tvwgrf6yb2i7mhwa5fh33s4lhxshrvnfkrxgjrykpi4au/12.%20rudolf.webp",
+      "mimeType": "image/webp",
+      "width": 512,
+      "height": 512,
+      "sha256": "4ab565096109c963e460273b08e1bff51733872cf9260eddb1b55058ce82d44e",
+      "tags": [
+        "rudolf",
+        "holiday",
+        "celebration"
+      ]
+    },
+    {
+      "id": "easter",
+      "name": "Easter",
+      "alt": "Easter holiday sticker illustration",
+      "url": "https://red-geographical-clownfish-714.mypinata.cloud/ipfs/bafybeicv4mxh7tvwgrf6yb2i7mhwa5fh33s4lhxshrvnfkrxgjrykpi4au/13.%20easter.webp",
+      "mimeType": "image/webp",
+      "width": 512,
+      "height": 512,
+      "sha256": "e8d814e8711db5b9191333ed35a0566251d096dff617524420ea48a1fc68c2bd",
+      "tags": [
+        "easter",
+        "holiday",
+        "celebration"
+      ]
+    },
+    {
+      "id": "good-friday",
+      "name": "Good Friday",
+      "alt": "Good Friday holiday sticker illustration",
+      "url": "https://red-geographical-clownfish-714.mypinata.cloud/ipfs/bafybeicv4mxh7tvwgrf6yb2i7mhwa5fh33s4lhxshrvnfkrxgjrykpi4au/14.%20good%20friday.webp",
+      "mimeType": "image/webp",
+      "width": 512,
+      "height": 512,
+      "sha256": "10790b6d5f8a0d9cdb7c1090605328bf691bd87995c9f3ee79d5537818a7c1a9",
+      "tags": [
+        "good friday",
+        "holiday",
+        "celebration"
+      ]
+    },
+    {
+      "id": "epiphany",
+      "name": "Epiphany",
+      "alt": "Epiphany holiday sticker illustration",
+      "url": "https://red-geographical-clownfish-714.mypinata.cloud/ipfs/bafybeicv4mxh7tvwgrf6yb2i7mhwa5fh33s4lhxshrvnfkrxgjrykpi4au/15.%20epiphany.webp",
+      "mimeType": "image/webp",
+      "width": 512,
+      "height": 512,
+      "sha256": "58e79bdd1f7a76b9de2067f00c2b6ee05ba5d02673d79e07615774ec9db68149",
+      "tags": [
+        "epiphany",
+        "holiday",
+        "celebration"
+      ]
+    },
+    {
+      "id": "ramadan-kareem",
+      "name": "Ramadan Kareem",
+      "alt": "Ramadan Kareem holiday sticker illustration",
+      "url": "https://red-geographical-clownfish-714.mypinata.cloud/ipfs/bafybeicv4mxh7tvwgrf6yb2i7mhwa5fh33s4lhxshrvnfkrxgjrykpi4au/16.%20ramadan%20kareem.webp",
+      "mimeType": "image/webp",
+      "width": 512,
+      "height": 512,
+      "sha256": "65818179156db427a892db42f522d87aba834918c77d0c740837590e91496693",
+      "tags": [
+        "ramadan kareem",
+        "holiday",
+        "celebration"
+      ]
+    },
+    {
+      "id": "ramadan-moon",
+      "name": "Ramadan Moon",
+      "alt": "Ramadan Moon holiday sticker illustration",
+      "url": "https://red-geographical-clownfish-714.mypinata.cloud/ipfs/bafybeicv4mxh7tvwgrf6yb2i7mhwa5fh33s4lhxshrvnfkrxgjrykpi4au/17.%20Ramadan%20Moon.webp",
+      "mimeType": "image/webp",
+      "width": 512,
+      "height": 512,
+      "sha256": "2ecb1ff9b0973fdbea85995fcaf428ba72fb73cd46ebdcfa5efa334835b74b80",
+      "tags": [
+        "ramadan moon",
+        "holiday",
+        "celebration"
+      ]
+    },
+    {
+      "id": "iftar",
+      "name": "Iftar",
+      "alt": "Iftar holiday sticker illustration",
+      "url": "https://red-geographical-clownfish-714.mypinata.cloud/ipfs/bafybeicv4mxh7tvwgrf6yb2i7mhwa5fh33s4lhxshrvnfkrxgjrykpi4au/18.%20iftar.webp",
+      "mimeType": "image/webp",
+      "width": 512,
+      "height": 512,
+      "sha256": "dba2a9c1c3a564ae022737a0ced7e2c7e9bbc8aafd5a6eb2837368568e63422a",
+      "tags": [
+        "iftar",
+        "holiday",
+        "celebration"
+      ]
+    },
+    {
+      "id": "eid-al-fitr",
+      "name": "Eid Al Fitr",
+      "alt": "Eid Al Fitr holiday sticker illustration",
+      "url": "https://red-geographical-clownfish-714.mypinata.cloud/ipfs/bafybeicv4mxh7tvwgrf6yb2i7mhwa5fh33s4lhxshrvnfkrxgjrykpi4au/19.%20eid%20al-fitr.webp",
+      "mimeType": "image/webp",
+      "width": 512,
+      "height": 512,
+      "sha256": "c458fdc263b6a398155c8e5074a4535d1f75cf6e493194434ba24f06ab8663c6",
+      "tags": [
+        "eid al fitr",
+        "holiday",
+        "celebration"
+      ]
+    },
+    {
+      "id": "eid-al-adha",
+      "name": "Eid Al Adha",
+      "alt": "Eid Al Adha holiday sticker illustration",
+      "url": "https://red-geographical-clownfish-714.mypinata.cloud/ipfs/bafybeicv4mxh7tvwgrf6yb2i7mhwa5fh33s4lhxshrvnfkrxgjrykpi4au/20.%20eid%20al-adha.webp",
+      "mimeType": "image/webp",
+      "width": 512,
+      "height": 512,
+      "sha256": "b6390cee3d80e44553d74cf5f9ea37dc9e848652f386181840066f0a129fde60",
+      "tags": [
+        "eid al adha",
+        "holiday",
+        "celebration"
+      ]
+    },
+    {
+      "id": "mosque",
+      "name": "Mosque",
+      "alt": "Mosque holiday sticker illustration",
+      "url": "https://red-geographical-clownfish-714.mypinata.cloud/ipfs/bafybeicv4mxh7tvwgrf6yb2i7mhwa5fh33s4lhxshrvnfkrxgjrykpi4au/21.%20mosque.webp",
+      "mimeType": "image/webp",
+      "width": 512,
+      "height": 512,
+      "sha256": "1783fe16660eb74c5c025caae9ed3ce8d9a9ff13915d8139ff59fc79bb939243",
+      "tags": [
+        "mosque",
+        "holiday",
+        "celebration"
+      ]
+    },
+    {
+      "id": "prayer",
+      "name": "Prayer",
+      "alt": "Prayer holiday sticker illustration",
+      "url": "https://red-geographical-clownfish-714.mypinata.cloud/ipfs/bafybeicv4mxh7tvwgrf6yb2i7mhwa5fh33s4lhxshrvnfkrxgjrykpi4au/22.%20prayer.webp",
+      "mimeType": "image/webp",
+      "width": 512,
+      "height": 512,
+      "sha256": "9b350717ca67b109d21a3bca40a9322767bc82ccd525a8f5b550fa04f6c701eb",
+      "tags": [
+        "prayer",
+        "holiday",
+        "celebration"
+      ]
+    },
+    {
+      "id": "zakat",
+      "name": "Zakat",
+      "alt": "Zakat holiday sticker illustration",
+      "url": "https://red-geographical-clownfish-714.mypinata.cloud/ipfs/bafybeicv4mxh7tvwgrf6yb2i7mhwa5fh33s4lhxshrvnfkrxgjrykpi4au/23.%20zakat.webp",
+      "mimeType": "image/webp",
+      "width": 512,
+      "height": 512,
+      "sha256": "ca82817eb5068cf54ed6cf5ad74087b7e80532344fc34329fd01cf8f37c33b19",
+      "tags": [
+        "zakat",
+        "holiday",
+        "celebration"
+      ]
+    },
+    {
+      "id": "diwali",
+      "name": "Diwali",
+      "alt": "Diwali holiday sticker illustration",
+      "url": "https://red-geographical-clownfish-714.mypinata.cloud/ipfs/bafybeicv4mxh7tvwgrf6yb2i7mhwa5fh33s4lhxshrvnfkrxgjrykpi4au/24.%20diwali.webp",
+      "mimeType": "image/webp",
+      "width": 512,
+      "height": 512,
+      "sha256": "8fded0acd4dacff9a433b704606dacf79b201192a7e7108141f1ebc3e9f55b64",
+      "tags": [
+        "diwali",
+        "holiday",
+        "celebration"
+      ]
+    },
+    {
+      "id": "diwali-fireworks",
+      "name": "Diwali Fireworks",
+      "alt": "Diwali Fireworks holiday sticker illustration",
+      "url": "https://red-geographical-clownfish-714.mypinata.cloud/ipfs/bafybeicv4mxh7tvwgrf6yb2i7mhwa5fh33s4lhxshrvnfkrxgjrykpi4au/25.%20diwali%20fireworks.webp",
+      "mimeType": "image/webp",
+      "width": 512,
+      "height": 512,
+      "sha256": "af0862eec4ab5921b9dbdc5ad4ea6fa26dc78eeb18b0b615b1b54c1f59bcfcbc",
+      "tags": [
+        "diwali fireworks",
+        "holiday",
+        "celebration"
+      ]
+    },
+    {
+      "id": "holi",
+      "name": "Holi",
+      "alt": "Holi holiday sticker illustration",
+      "url": "https://red-geographical-clownfish-714.mypinata.cloud/ipfs/bafybeicv4mxh7tvwgrf6yb2i7mhwa5fh33s4lhxshrvnfkrxgjrykpi4au/26.%20holi.webp",
+      "mimeType": "image/webp",
+      "width": 512,
+      "height": 512,
+      "sha256": "ca60b50bd45e85c6ab7299b6804756a26f864ac46e7f7376f124535692846390",
+      "tags": [
+        "holi",
+        "holiday",
+        "celebration"
+      ]
+    },
+    {
+      "id": "ganesh-chaturthi",
+      "name": "Ganesh Chaturthi",
+      "alt": "Ganesh Chaturthi holiday sticker illustration",
+      "url": "https://red-geographical-clownfish-714.mypinata.cloud/ipfs/bafybeicv4mxh7tvwgrf6yb2i7mhwa5fh33s4lhxshrvnfkrxgjrykpi4au/27.%20ganesh%20chaturthi.webp",
+      "mimeType": "image/webp",
+      "width": 512,
+      "height": 512,
+      "sha256": "1536a6f286acce8e1b3779aae645554edb81c5a83e7d4d33f654457e298c23c2",
+      "tags": [
+        "ganesh chaturthi",
+        "holiday",
+        "celebration"
+      ]
+    },
+    {
+      "id": "raksha-bandhan",
+      "name": "Raksha Bandhan",
+      "alt": "Raksha Bandhan holiday sticker illustration",
+      "url": "https://red-geographical-clownfish-714.mypinata.cloud/ipfs/bafybeicv4mxh7tvwgrf6yb2i7mhwa5fh33s4lhxshrvnfkrxgjrykpi4au/28.%20raksha%20bandhan.webp",
+      "mimeType": "image/webp",
+      "width": 512,
+      "height": 512,
+      "sha256": "5136789dc20e145af0eb135d0c756297e65dea4e6686f550845c776fe64d0caa",
+      "tags": [
+        "raksha bandhan",
+        "holiday",
+        "celebration"
+      ]
+    },
+    {
+      "id": "navratri",
+      "name": "Navratri",
+      "alt": "Navratri holiday sticker illustration",
+      "url": "https://red-geographical-clownfish-714.mypinata.cloud/ipfs/bafybeicv4mxh7tvwgrf6yb2i7mhwa5fh33s4lhxshrvnfkrxgjrykpi4au/29.%20navratri.webp",
+      "mimeType": "image/webp",
+      "width": 512,
+      "height": 512,
+      "sha256": "1bbdc42c66a09efa1ac17336e41dced20eadf9dc6e0ff41297c6c997a0403d52",
+      "tags": [
+        "navratri",
+        "holiday",
+        "celebration"
+      ]
+    },
+    {
+      "id": "dussehra",
+      "name": "Dussehra",
+      "alt": "Dussehra holiday sticker illustration",
+      "url": "https://red-geographical-clownfish-714.mypinata.cloud/ipfs/bafybeicv4mxh7tvwgrf6yb2i7mhwa5fh33s4lhxshrvnfkrxgjrykpi4au/30.%20dussehra.webp",
+      "mimeType": "image/webp",
+      "width": 512,
+      "height": 512,
+      "sha256": "f3c8ac87b10fa3c596b96d1f3ece963f13c8150f90b104e3c36198a9d6dd8bec",
+      "tags": [
+        "dussehra",
+        "holiday",
+        "celebration"
+      ]
+    },
+    {
+      "id": "hanukkah",
+      "name": "Hanukkah",
+      "alt": "Hanukkah holiday sticker illustration",
+      "url": "https://red-geographical-clownfish-714.mypinata.cloud/ipfs/bafybeicv4mxh7tvwgrf6yb2i7mhwa5fh33s4lhxshrvnfkrxgjrykpi4au/31.%20hanukkah.webp",
+      "mimeType": "image/webp",
+      "width": 512,
+      "height": 512,
+      "sha256": "c93df7925d9c12230cceb73bd8879588557c25f33abd668dfe92f63dba0e413b",
+      "tags": [
+        "hanukkah",
+        "holiday",
+        "celebration"
+      ]
+    },
+    {
+      "id": "dreidel",
+      "name": "Dreidel",
+      "alt": "Dreidel holiday sticker illustration",
+      "url": "https://red-geographical-clownfish-714.mypinata.cloud/ipfs/bafybeicv4mxh7tvwgrf6yb2i7mhwa5fh33s4lhxshrvnfkrxgjrykpi4au/32.%20dreidel.webp",
+      "mimeType": "image/webp",
+      "width": 512,
+      "height": 512,
+      "sha256": "07e8ce39c71868484ad34256733ca53b9e8d9cbbdbe610247df7bb62ac8e0f54",
+      "tags": [
+        "dreidel",
+        "holiday",
+        "celebration"
+      ]
+    },
+    {
+      "id": "rosh-hashanah",
+      "name": "Rosh Hashanah",
+      "alt": "Rosh Hashanah holiday sticker illustration",
+      "url": "https://red-geographical-clownfish-714.mypinata.cloud/ipfs/bafybeicv4mxh7tvwgrf6yb2i7mhwa5fh33s4lhxshrvnfkrxgjrykpi4au/33.%20rosh%20hashanah.webp",
+      "mimeType": "image/webp",
+      "width": 512,
+      "height": 512,
+      "sha256": "997da5a1fd2b76644ec44170f9d8bdde8d51a575fdc9c0cabd9e193db652d5f4",
+      "tags": [
+        "rosh hashanah",
+        "holiday",
+        "celebration"
+      ]
+    },
+    {
+      "id": "yom-kippur",
+      "name": "Yom Kippur",
+      "alt": "Yom Kippur holiday sticker illustration",
+      "url": "https://red-geographical-clownfish-714.mypinata.cloud/ipfs/bafybeicv4mxh7tvwgrf6yb2i7mhwa5fh33s4lhxshrvnfkrxgjrykpi4au/34.%20yom%20kippur.webp",
+      "mimeType": "image/webp",
+      "width": 512,
+      "height": 512,
+      "sha256": "221affbbae33d98d6b879f50da51ed8d1b57b5174f415910f6a8efa9b99f0a93",
+      "tags": [
+        "yom kippur",
+        "holiday",
+        "celebration"
+      ]
+    },
+    {
+      "id": "passover",
+      "name": "Passover",
+      "alt": "Passover holiday sticker illustration",
+      "url": "https://red-geographical-clownfish-714.mypinata.cloud/ipfs/bafybeicv4mxh7tvwgrf6yb2i7mhwa5fh33s4lhxshrvnfkrxgjrykpi4au/35.%20passover.webp",
+      "mimeType": "image/webp",
+      "width": 512,
+      "height": 512,
+      "sha256": "1c1ebfa96cdd455637a5fa0c6a12b66a8a47cbfbdef5317775ab36117fcf9ee0",
+      "tags": [
+        "passover",
+        "holiday",
+        "celebration"
+      ]
+    },
+    {
+      "id": "purim",
+      "name": "Purim",
+      "alt": "Purim holiday sticker illustration",
+      "url": "https://red-geographical-clownfish-714.mypinata.cloud/ipfs/bafybeicv4mxh7tvwgrf6yb2i7mhwa5fh33s4lhxshrvnfkrxgjrykpi4au/36.%20purim.webp",
+      "mimeType": "image/webp",
+      "width": 512,
+      "height": 512,
+      "sha256": "08d7d4c47d37cecb2aafe8509c9d95692c938afdf2bed15ccec0f79d3ff4ec09",
+      "tags": [
+        "purim",
+        "holiday",
+        "celebration"
+      ]
+    },
+    {
+      "id": "shavuot",
+      "name": "Shavuot",
+      "alt": "Shavuot holiday sticker illustration",
+      "url": "https://red-geographical-clownfish-714.mypinata.cloud/ipfs/bafybeicv4mxh7tvwgrf6yb2i7mhwa5fh33s4lhxshrvnfkrxgjrykpi4au/37.%20shavuot.webp",
+      "mimeType": "image/webp",
+      "width": 512,
+      "height": 512,
+      "sha256": "dafc626d2522bbb0012c9e2c392d93a2229ca90b4bbc20aae9685267abc977a5",
+      "tags": [
+        "shavuot",
+        "holiday",
+        "celebration"
+      ]
+    },
+    {
+      "id": "hanami",
+      "name": "Hanami",
+      "alt": "Hanami holiday sticker illustration",
+      "url": "https://red-geographical-clownfish-714.mypinata.cloud/ipfs/bafybeicv4mxh7tvwgrf6yb2i7mhwa5fh33s4lhxshrvnfkrxgjrykpi4au/38.%20hanami.webp",
+      "mimeType": "image/webp",
+      "width": 512,
+      "height": 512,
+      "sha256": "b4176038d74daa558466dcfd39b485388f7aaf5ade3409e00c20e1285da46b1d",
+      "tags": [
+        "hanami",
+        "holiday",
+        "celebration"
+      ]
+    },
+    {
+      "id": "tanabata",
+      "name": "Tanabata",
+      "alt": "Tanabata holiday sticker illustration",
+      "url": "https://red-geographical-clownfish-714.mypinata.cloud/ipfs/bafybeicv4mxh7tvwgrf6yb2i7mhwa5fh33s4lhxshrvnfkrxgjrykpi4au/39.%20tanabata.webp",
+      "mimeType": "image/webp",
+      "width": 512,
+      "height": 512,
+      "sha256": "17092ee97f8f6b5c8070e9ccfc958ebf9b7ad072cb845dc84899b561fa6c6395",
+      "tags": [
+        "tanabata",
+        "holiday",
+        "celebration"
+      ]
+    },
+    {
+      "id": "chuseok",
+      "name": "Chuseok",
+      "alt": "Chuseok holiday sticker illustration",
+      "url": "https://red-geographical-clownfish-714.mypinata.cloud/ipfs/bafybeicv4mxh7tvwgrf6yb2i7mhwa5fh33s4lhxshrvnfkrxgjrykpi4au/40.%20chuseok.webp",
+      "mimeType": "image/webp",
+      "width": 512,
+      "height": 512,
+      "sha256": "eb77227183c7ea1923d590d7d755a06cfee74062c27e5c8f882a1aa7a6e65f7e",
+      "tags": [
+        "chuseok",
+        "holiday",
+        "celebration"
+      ]
+    },
+    {
+      "id": "lantern-festival",
+      "name": "Lantern Festival",
+      "alt": "Lantern Festival holiday sticker illustration",
+      "url": "https://red-geographical-clownfish-714.mypinata.cloud/ipfs/bafybeicv4mxh7tvwgrf6yb2i7mhwa5fh33s4lhxshrvnfkrxgjrykpi4au/41.%20lantern%20festival.webp",
+      "mimeType": "image/webp",
+      "width": 512,
+      "height": 512,
+      "sha256": "b0d0f821cc583b976993f6d3e93fb6fdcb7e8e838874a7bb3ecdb71e6afc372b",
+      "tags": [
+        "lantern festival",
+        "holiday",
+        "celebration"
+      ]
+    },
+    {
+      "id": "qingming",
+      "name": "Qingming",
+      "alt": "Qingming holiday sticker illustration",
+      "url": "https://red-geographical-clownfish-714.mypinata.cloud/ipfs/bafybeicv4mxh7tvwgrf6yb2i7mhwa5fh33s4lhxshrvnfkrxgjrykpi4au/42.%20qingming.webp",
+      "mimeType": "image/webp",
+      "width": 512,
+      "height": 512,
+      "sha256": "a7608d4300571d82e3ac774f78ff0d840767689f0854d8c4d64e6d1ddc30bb34",
+      "tags": [
+        "qingming",
+        "holiday",
+        "celebration"
+      ]
+    },
+    {
+      "id": "dragon-boat-festival",
+      "name": "Dragon Boat Festival",
+      "alt": "Dragon Boat Festival holiday sticker illustration",
+      "url": "https://red-geographical-clownfish-714.mypinata.cloud/ipfs/bafybeicv4mxh7tvwgrf6yb2i7mhwa5fh33s4lhxshrvnfkrxgjrykpi4au/43.%20dragon%20boat%20festival.webp",
+      "mimeType": "image/webp",
+      "width": 512,
+      "height": 512,
+      "sha256": "a678c76376f0db9d68dbd32408b20c0a4cff91f3c12ace7566ed1a7a54607e88",
+      "tags": [
+        "dragon boat festival",
+        "holiday",
+        "celebration"
+      ]
+    },
+    {
+      "id": "obon",
+      "name": "Obon",
+      "alt": "Obon holiday sticker illustration",
+      "url": "https://red-geographical-clownfish-714.mypinata.cloud/ipfs/bafybeicv4mxh7tvwgrf6yb2i7mhwa5fh33s4lhxshrvnfkrxgjrykpi4au/44.%20obon.webp",
+      "mimeType": "image/webp",
+      "width": 512,
+      "height": 512,
+      "sha256": "9f57b9d809b14ffd386fb7289d3bebd74c92e0da8e3e42c516da28470e209012",
+      "tags": [
+        "obon",
+        "holiday",
+        "celebration"
+      ]
+    },
+    {
+      "id": "childrens-day",
+      "name": "Childrens Day",
+      "alt": "Childrens Day holiday sticker illustration",
+      "url": "https://red-geographical-clownfish-714.mypinata.cloud/ipfs/bafybeicv4mxh7tvwgrf6yb2i7mhwa5fh33s4lhxshrvnfkrxgjrykpi4au/45.%20childrens%20day.webp",
+      "mimeType": "image/webp",
+      "width": 512,
+      "height": 512,
+      "sha256": "c0bc5c3b5f52a4864624e2a6df1f095af06902644d1dd32a915950557984789b",
+      "tags": [
+        "childrens day",
+        "holiday",
+        "celebration"
+      ]
+    },
+    {
+      "id": "sinterklaas",
+      "name": "Sinterklaas",
+      "alt": "Sinterklaas holiday sticker illustration",
+      "url": "https://red-geographical-clownfish-714.mypinata.cloud/ipfs/bafybeicv4mxh7tvwgrf6yb2i7mhwa5fh33s4lhxshrvnfkrxgjrykpi4au/46.%20sinterklaas.webp",
+      "mimeType": "image/webp",
+      "width": 512,
+      "height": 512,
+      "sha256": "df10b9be578e8d667b0fd05f1acc3c9c0d417dc558e1a7d4c24d6191dd313466",
+      "tags": [
+        "sinterklaas",
+        "holiday",
+        "celebration"
+      ]
+    },
+    {
+      "id": "schimmel",
+      "name": "Schimmel",
+      "alt": "Schimmel holiday sticker illustration",
+      "url": "https://red-geographical-clownfish-714.mypinata.cloud/ipfs/bafybeicv4mxh7tvwgrf6yb2i7mhwa5fh33s4lhxshrvnfkrxgjrykpi4au/47.%20schimmel.webp",
+      "mimeType": "image/webp",
+      "width": 512,
+      "height": 512,
+      "sha256": "7fef38751a991b5ad412d75bf235f8b368a3118f60f7740f77fdd21ddb5ac7f2",
+      "tags": [
+        "schimmel",
+        "holiday",
+        "celebration"
+      ]
+    },
+    {
+      "id": "schoen",
+      "name": "Schoen",
+      "alt": "Schoen holiday sticker illustration",
+      "url": "https://red-geographical-clownfish-714.mypinata.cloud/ipfs/bafybeicv4mxh7tvwgrf6yb2i7mhwa5fh33s4lhxshrvnfkrxgjrykpi4au/48.%20schoen.webp",
+      "mimeType": "image/webp",
+      "width": 512,
+      "height": 512,
+      "sha256": "75eb7505b49a66b5856de4eb949ddad57b33744eb0e6d8a161c0c0497ca251fd",
+      "tags": [
+        "schoen",
+        "holiday",
+        "celebration"
+      ]
+    },
+    {
+      "id": "pakjesboot",
+      "name": "Pakjesboot",
+      "alt": "Pakjesboot holiday sticker illustration",
+      "url": "https://red-geographical-clownfish-714.mypinata.cloud/ipfs/bafybeicv4mxh7tvwgrf6yb2i7mhwa5fh33s4lhxshrvnfkrxgjrykpi4au/49.%20pakjesboot.webp",
+      "mimeType": "image/webp",
+      "width": 512,
+      "height": 512,
+      "sha256": "3c2af70e35ed621d0d861ae1e0f9dd3316dbddb4d59d4cdcf6bd108d9af5cbdf",
+      "tags": [
+        "pakjesboot",
+        "holiday",
+        "celebration"
+      ]
+    },
+    {
+      "id": "krampus",
+      "name": "Krampus",
+      "alt": "Krampus holiday sticker illustration",
+      "url": "https://red-geographical-clownfish-714.mypinata.cloud/ipfs/bafybeicv4mxh7tvwgrf6yb2i7mhwa5fh33s4lhxshrvnfkrxgjrykpi4au/50.%20krampus.webp",
+      "mimeType": "image/webp",
+      "width": 512,
+      "height": 512,
+      "sha256": "5e4e86966d134908002ed062ac1b714030e6627f4c5919d9f532ee68cf09fadf",
+      "tags": [
+        "krampus",
+        "holiday",
+        "celebration"
+      ]
+    },
+    {
+      "id": "geus",
+      "name": "Geus",
+      "alt": "Geus holiday sticker illustration",
+      "url": "https://red-geographical-clownfish-714.mypinata.cloud/ipfs/bafybeicv4mxh7tvwgrf6yb2i7mhwa5fh33s4lhxshrvnfkrxgjrykpi4au/51.%20geus.webp",
+      "mimeType": "image/webp",
+      "width": 512,
+      "height": 512,
+      "sha256": "0684fc2567817d746d295b49aeacaf1bafedba4f38350547301aeda34a3eec96",
+      "tags": [
+        "geus",
+        "holiday",
+        "celebration"
+      ]
+    },
+    {
+      "id": "hutspot",
+      "name": "Hutspot",
+      "alt": "Hutspot holiday sticker illustration",
+      "url": "https://red-geographical-clownfish-714.mypinata.cloud/ipfs/bafybeicv4mxh7tvwgrf6yb2i7mhwa5fh33s4lhxshrvnfkrxgjrykpi4au/52.%20hutspot.webp",
+      "mimeType": "image/webp",
+      "width": 512,
+      "height": 512,
+      "sha256": "f35d8c34ca51a7c1e1dd46a92882b5eb70747350d40c3fd9e0ece8ef8c54719e",
+      "tags": [
+        "hutspot",
+        "holiday",
+        "celebration"
+      ]
+    },
+    {
+      "id": "leidens-ontzet",
+      "name": "Leidens Ontzet",
+      "alt": "Leidens Ontzet holiday sticker illustration",
+      "url": "https://red-geographical-clownfish-714.mypinata.cloud/ipfs/bafybeicv4mxh7tvwgrf6yb2i7mhwa5fh33s4lhxshrvnfkrxgjrykpi4au/53.%20leidens%20ontzet.webp",
+      "mimeType": "image/webp",
+      "width": 512,
+      "height": 512,
+      "sha256": "cf3933e9fabbff67b129b5828d9755d50020d3597a7b183e23b96a59aba3b11a",
+      "tags": [
+        "leidens ontzet",
+        "holiday",
+        "celebration"
+      ]
+    },
+    {
+      "id": "valentines-day",
+      "name": "Valentines Day",
+      "alt": "Valentines Day holiday sticker illustration",
+      "url": "https://red-geographical-clownfish-714.mypinata.cloud/ipfs/bafybeicv4mxh7tvwgrf6yb2i7mhwa5fh33s4lhxshrvnfkrxgjrykpi4au/54.%20valentines%20day.webp",
+      "mimeType": "image/webp",
+      "width": 512,
+      "height": 512,
+      "sha256": "553e80fe8d8b98dc65d529c42a075946d8fc681d4cea07bb9284110cc5c34751",
+      "tags": [
+        "valentines day",
+        "holiday",
+        "celebration"
+      ]
+    },
+    {
+      "id": "halloween",
+      "name": "Halloween",
+      "alt": "Halloween holiday sticker illustration",
+      "url": "https://red-geographical-clownfish-714.mypinata.cloud/ipfs/bafybeicv4mxh7tvwgrf6yb2i7mhwa5fh33s4lhxshrvnfkrxgjrykpi4au/55.%20halloween.webp",
+      "mimeType": "image/webp",
+      "width": 512,
+      "height": 512,
+      "sha256": "2237831ae988af6c46458ab6caf1988116f81e83cc74a94eb6ef7fbd5c56695e",
+      "tags": [
+        "halloween",
+        "holiday",
+        "celebration"
+      ]
+    },
+    {
+      "id": "thanksgiving",
+      "name": "Thanksgiving",
+      "alt": "Thanksgiving holiday sticker illustration",
+      "url": "https://red-geographical-clownfish-714.mypinata.cloud/ipfs/bafybeicv4mxh7tvwgrf6yb2i7mhwa5fh33s4lhxshrvnfkrxgjrykpi4au/56.%20thanksgiving.webp",
+      "mimeType": "image/webp",
+      "width": 512,
+      "height": 512,
+      "sha256": "4f60a509f5c15919cedc85b238d5945732e1fa6c859974f761fa0b2cec0e1aab",
+      "tags": [
+        "thanksgiving",
+        "holiday",
+        "celebration"
+      ]
+    },
+    {
+      "id": "mothers-day",
+      "name": "Mothers Day",
+      "alt": "Mothers Day holiday sticker illustration",
+      "url": "https://red-geographical-clownfish-714.mypinata.cloud/ipfs/bafybeicv4mxh7tvwgrf6yb2i7mhwa5fh33s4lhxshrvnfkrxgjrykpi4au/57.%20mothers%20day.webp",
+      "mimeType": "image/webp",
+      "width": 512,
+      "height": 512,
+      "sha256": "786ca12d9a32ceb6223ddf059fbc3ee2a40a05794c3152d5c83e3502dbdd7e76",
+      "tags": [
+        "mothers day",
+        "holiday",
+        "celebration"
+      ]
+    },
+    {
+      "id": "fathers-day",
+      "name": "Fathers Day",
+      "alt": "Fathers Day holiday sticker illustration",
+      "url": "https://red-geographical-clownfish-714.mypinata.cloud/ipfs/bafybeicv4mxh7tvwgrf6yb2i7mhwa5fh33s4lhxshrvnfkrxgjrykpi4au/58.%20fathers%20day.webp",
+      "mimeType": "image/webp",
+      "width": 512,
+      "height": 512,
+      "sha256": "511e17388a3c7f8547c51510f44c7fb9c3953e1e5d72cfd2b482790aa2a0878e",
+      "tags": [
+        "fathers day",
+        "holiday",
+        "celebration"
+      ]
+    },
+    {
+      "id": "carnaval",
+      "name": "Carnaval",
+      "alt": "Carnaval holiday sticker illustration",
+      "url": "https://red-geographical-clownfish-714.mypinata.cloud/ipfs/bafybeicv4mxh7tvwgrf6yb2i7mhwa5fh33s4lhxshrvnfkrxgjrykpi4au/59.%20carnaval.webp",
+      "mimeType": "image/webp",
+      "width": 512,
+      "height": 512,
+      "sha256": "6a2817d7c22fe3d57abee6f25ffeb7770cbac069bc3a7c6e5bd5c9662da5aa09",
+      "tags": [
+        "carnaval",
+        "holiday",
+        "celebration"
+      ]
+    },
+    {
+      "id": "old-and-new",
+      "name": "Old And New",
+      "alt": "Old And New holiday sticker illustration",
+      "url": "https://red-geographical-clownfish-714.mypinata.cloud/ipfs/bafybeicv4mxh7tvwgrf6yb2i7mhwa5fh33s4lhxshrvnfkrxgjrykpi4au/60.%20old%20and%20new.webp",
+      "mimeType": "image/webp",
+      "width": 512,
+      "height": 512,
+      "sha256": "2141ff62152de67a291a8b167ad51ea07ba101d331f71a8ff09490092e3f2800",
+      "tags": [
+        "old and new",
+        "holiday",
+        "celebration"
+      ]
+    },
+    {
+      "id": "day-of-the-dead",
+      "name": "Day Of The Dead",
+      "alt": "Day Of The Dead holiday sticker illustration",
+      "url": "https://red-geographical-clownfish-714.mypinata.cloud/ipfs/bafybeicv4mxh7tvwgrf6yb2i7mhwa5fh33s4lhxshrvnfkrxgjrykpi4au/61.%20day%20of%20the%20dead.webp",
+      "mimeType": "image/webp",
+      "width": 512,
+      "height": 512,
+      "sha256": "91669ac7e38fda17093d361168d72ae4b140cf7266b5a32728607b1a74a14ed4",
+      "tags": [
+        "day of the dead",
+        "holiday",
+        "celebration"
+      ]
+    },
+    {
+      "id": "kwanzaa",
+      "name": "Kwanzaa",
+      "alt": "Kwanzaa holiday sticker illustration",
+      "url": "https://red-geographical-clownfish-714.mypinata.cloud/ipfs/bafybeicv4mxh7tvwgrf6yb2i7mhwa5fh33s4lhxshrvnfkrxgjrykpi4au/62.%20kwanzaa.webp",
+      "mimeType": "image/webp",
+      "width": 512,
+      "height": 512,
+      "sha256": "a8c345b2f9789a976b0fe2ca9efc241bf19c3f74a0b81cba61068de023284eda",
+      "tags": [
+        "kwanzaa",
+        "holiday",
+        "celebration"
+      ]
+    },
+    {
+      "id": "st-patricks-day",
+      "name": "St. Patricks Day",
+      "alt": "St. Patricks Day holiday sticker illustration",
+      "url": "https://red-geographical-clownfish-714.mypinata.cloud/ipfs/bafybeicv4mxh7tvwgrf6yb2i7mhwa5fh33s4lhxshrvnfkrxgjrykpi4au/63.%20st.%20patricks%20day.webp",
+      "mimeType": "image/webp",
+      "width": 512,
+      "height": 512,
+      "sha256": "dedf86fe6eafa1f4b0a448cc80d73ef98bee08022ea1c78cc933c8c79b577b32",
+      "tags": [
+        "st patricks day",
+        "holiday",
+        "celebration"
+      ]
+    },
+    {
+      "id": "mardi-gras",
+      "name": "Mardi Gras",
+      "alt": "Mardi Gras holiday sticker illustration",
+      "url": "https://red-geographical-clownfish-714.mypinata.cloud/ipfs/bafybeicv4mxh7tvwgrf6yb2i7mhwa5fh33s4lhxshrvnfkrxgjrykpi4au/64.%20mardi%20gras.webp",
+      "mimeType": "image/webp",
+      "width": 512,
+      "height": 512,
+      "sha256": "38ace880b72afdb851113d2010fcf796d912997a3ff34b03c4547fd2cc9122de",
+      "tags": [
+        "mardi gras",
+        "holiday",
+        "celebration"
+      ]
+    },
+    {
+      "id": "vesak",
+      "name": "Vesak",
+      "alt": "Vesak holiday sticker illustration",
+      "url": "https://red-geographical-clownfish-714.mypinata.cloud/ipfs/bafybeicv4mxh7tvwgrf6yb2i7mhwa5fh33s4lhxshrvnfkrxgjrykpi4au/65.%20vesak.webp",
+      "mimeType": "image/webp",
+      "width": 512,
+      "height": 512,
+      "sha256": "5e256e006e9ae390f27825dc463cfa4c4703c9651e0386cdcdf5946647bde0da",
+      "tags": [
+        "vesak",
+        "holiday",
+        "celebration"
+      ]
+    },
+    {
+      "id": "bodhi-day",
+      "name": "Bodhi Day",
+      "alt": "Bodhi Day holiday sticker illustration",
+      "url": "https://red-geographical-clownfish-714.mypinata.cloud/ipfs/bafybeicv4mxh7tvwgrf6yb2i7mhwa5fh33s4lhxshrvnfkrxgjrykpi4au/66.%20bodhi%20day.webp",
+      "mimeType": "image/webp",
+      "width": 512,
+      "height": 512,
+      "sha256": "2d984a585e297b100989dde8cbe1f1f55b455a03119ea305ce26b3a948b1f0ca",
+      "tags": [
+        "bodhi day",
+        "holiday",
+        "celebration"
+      ]
+    },
+    {
+      "id": "orthodox-christmas",
+      "name": "Orthodox Christmas",
+      "alt": "Orthodox Christmas holiday sticker illustration",
+      "url": "https://red-geographical-clownfish-714.mypinata.cloud/ipfs/bafybeicv4mxh7tvwgrf6yb2i7mhwa5fh33s4lhxshrvnfkrxgjrykpi4au/67.%20orthodox%20christmas.webp",
+      "mimeType": "image/webp",
+      "width": 512,
+      "height": 512,
+      "sha256": "0fefdf801fe070d45fef44ee5062b3397d7cb01fe4c3c7928a0f06212c11be9b",
+      "tags": [
+        "orthodox christmas",
+        "holiday",
+        "celebration"
+      ]
+    },
+    {
+      "id": "orthodox-easter",
+      "name": "Orthodox Easter",
+      "alt": "Orthodox Easter holiday sticker illustration",
+      "url": "https://red-geographical-clownfish-714.mypinata.cloud/ipfs/bafybeicv4mxh7tvwgrf6yb2i7mhwa5fh33s4lhxshrvnfkrxgjrykpi4au/68.%20orthodox%20easter.webp",
+      "mimeType": "image/webp",
+      "width": 512,
+      "height": 512,
+      "sha256": "95b82fad0008c37ef87057d088cd6abe8d44042e7a75dca4dfeb91caca49f2ef",
+      "tags": [
+        "orthodox easter",
+        "holiday",
+        "celebration"
+      ]
+    },
+    {
+      "id": "vaisakhi",
+      "name": "Vaisakhi",
+      "alt": "Vaisakhi holiday sticker illustration",
+      "url": "https://red-geographical-clownfish-714.mypinata.cloud/ipfs/bafybeicv4mxh7tvwgrf6yb2i7mhwa5fh33s4lhxshrvnfkrxgjrykpi4au/69.%20vaisakhi.webp",
+      "mimeType": "image/webp",
+      "width": 512,
+      "height": 512,
+      "sha256": "fa50e47881347fc8aed3d18c698a421738c3ba541da1d575ee9b5eeed4c12a41",
+      "tags": [
+        "vaisakhi",
+        "holiday",
+        "celebration"
+      ]
+    },
+    {
+      "id": "ponga",
+      "name": "Ponga",
+      "alt": "Ponga holiday sticker illustration",
+      "url": "https://red-geographical-clownfish-714.mypinata.cloud/ipfs/bafybeicv4mxh7tvwgrf6yb2i7mhwa5fh33s4lhxshrvnfkrxgjrykpi4au/70.%20ponga.webp",
+      "mimeType": "image/webp",
+      "width": 512,
+      "height": 512,
+      "sha256": "95d94427f6e9e720706e6f3a7ea6a6047e14dedc249ee41a46c561f23b2cc768",
+      "tags": [
+        "ponga",
+        "holiday",
+        "celebration"
+      ]
+    },
+    {
+      "id": "onam",
+      "name": "Onam",
+      "alt": "Onam holiday sticker illustration",
+      "url": "https://red-geographical-clownfish-714.mypinata.cloud/ipfs/bafybeicv4mxh7tvwgrf6yb2i7mhwa5fh33s4lhxshrvnfkrxgjrykpi4au/71.%20onam.webp",
+      "mimeType": "image/webp",
+      "width": 512,
+      "height": 512,
+      "sha256": "62fd79ea00fe22492fc3136fc1b90e762e7f7cd2f0a9d1e49e301c6109a0e3c9",
+      "tags": [
+        "onam",
+        "holiday",
+        "celebration"
+      ]
+    },
+    {
+      "id": "durga-puja",
+      "name": "Durga Puja",
+      "alt": "Durga Puja holiday sticker illustration",
+      "url": "https://red-geographical-clownfish-714.mypinata.cloud/ipfs/bafybeicv4mxh7tvwgrf6yb2i7mhwa5fh33s4lhxshrvnfkrxgjrykpi4au/72.%20durga%20puja.webp",
+      "mimeType": "image/webp",
+      "width": 512,
+      "height": 512,
+      "sha256": "5a452267e0a9f2db62f5abdcd6779b5be00e26d0afba0d8aec875b344adc248d",
+      "tags": [
+        "durga puja",
+        "holiday",
+        "celebration"
+      ]
+    },
+    {
+      "id": "janmashtami",
+      "name": "Janmashtami",
+      "alt": "Janmashtami holiday sticker illustration",
+      "url": "https://red-geographical-clownfish-714.mypinata.cloud/ipfs/bafybeicv4mxh7tvwgrf6yb2i7mhwa5fh33s4lhxshrvnfkrxgjrykpi4au/73.%20janmashtami.webp",
+      "mimeType": "image/webp",
+      "width": 512,
+      "height": 512,
+      "sha256": "7b0e435f84fd17a10392fc995e09015f8d6ced0eaafd2fc4f15c0ce5e72eb401",
+      "tags": [
+        "janmashtami",
+        "holiday",
+        "celebration"
+      ]
+    },
+    {
+      "id": "losar",
+      "name": "Losar",
+      "alt": "Losar holiday sticker illustration",
+      "url": "https://red-geographical-clownfish-714.mypinata.cloud/ipfs/bafybeicv4mxh7tvwgrf6yb2i7mhwa5fh33s4lhxshrvnfkrxgjrykpi4au/74.%20losar.webp",
+      "mimeType": "image/webp",
+      "width": 512,
+      "height": 512,
+      "sha256": "773fc6b5d4ecf3d49ab7dd62ce0581aa988ec720828d09fccc61b5b93e93e056",
+      "tags": [
+        "losar",
+        "holiday",
+        "celebration"
+      ]
+    },
+    {
+      "id": "seollal",
+      "name": "Seollal",
+      "alt": "Seollal holiday sticker illustration",
+      "url": "https://red-geographical-clownfish-714.mypinata.cloud/ipfs/bafybeicv4mxh7tvwgrf6yb2i7mhwa5fh33s4lhxshrvnfkrxgjrykpi4au/75.%20seollal.webp",
+      "mimeType": "image/webp",
+      "width": 512,
+      "height": 512,
+      "sha256": "9fd1f92eac2dedaae01dd2ae9eae6b4d04a9f18356618236236750acef98ac75",
+      "tags": [
+        "seollal",
+        "holiday",
+        "celebration"
+      ]
+    }
+  ]
+}
